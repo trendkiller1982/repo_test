@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 
-def afficher_lignes(n = 10):
+def afficher_lignes(n = 20):
     for i in range(n):
         print("-"*i)
 
